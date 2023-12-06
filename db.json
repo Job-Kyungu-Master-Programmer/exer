@@ -1,0 +1,22 @@
+{
+  "etudiants": [
+    {
+      "name": "Jeancy ",
+      "points": "85",
+      "pass": true,
+      "id": 1
+    },
+    {
+      "name": "Wios",
+      "points": "52",
+      "pass": true,
+      "id": 2
+    },
+    {
+      "name": "Nept",
+      "points": "20",
+      "pass": false,
+      "id": 3
+    }
+  ]
+}
